@@ -1,2 +1,3 @@
 # Git 튜토리얼
-	- feature-A
+- feature-A
+	- fix-B
